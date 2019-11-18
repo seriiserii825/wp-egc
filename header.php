@@ -15,7 +15,7 @@
     <link href="<?php echo get_template_directory_uri(); ?>/css/bootstrap.min.css" rel="stylesheet">
     <link href="<?php echo get_template_directory_uri(); ?>/css/owl.carousel.min.css" rel="stylesheet">
     <link href="<?php echo get_template_directory_uri(); ?>/css/owl.theme.default.css" rel="stylesheet">
-    <link href="<?php echo get_template_directory_uri(); ?>/css/style.css" rel="stylesheet">
+    <link href="<?php echo get_template_directory_uri(); ?>/css/my.css" rel="stylesheet">
     <link href="<?php echo get_template_directory_uri(); ?>/css/media.css" rel="stylesheet">
     <!--[if lt IE 9]>
     <script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]--><!--[if lt IE 9]>

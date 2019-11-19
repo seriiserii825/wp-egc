@@ -1789,6 +1789,7 @@ body {
 .info .go-to-services {
 	position: relative;
 	top: 16px;
+	display: block;
 }
 
 .video-bg .bottom-info {

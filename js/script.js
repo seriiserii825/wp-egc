@@ -69,4 +69,11 @@ $(document).ready(function () {
 		});
 	};
 	activeMenuItem();
+
+	let footerPhoneLink = function(){
+		$('#js-phone-link').on('click', function (e) {
+			e.stopPropagation();
+		});
+	};
+	footerPhoneLink();
 });

@@ -17,7 +17,7 @@
                 <span style="letter-spacing: -4px;  margin-left:10px;">---</span>
             </p>
             <a class="go-to-services" href="#uslugi" class="hidden-xs">
-                <img src="<?php echo get_template_directory_uri(); ?>/img/arrow-down.webp" alt="">
+                <img src="<?php echo get_template_directory_uri(); ?>/img/arrow-down.png" alt="">
             </a>
         </div>
 
